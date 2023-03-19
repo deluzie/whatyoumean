@@ -14,7 +14,7 @@ p "importing data"
 
 require "csv"
 
-csv_text = File.read(Rails.root.join('whatyoumean_07.csv'))
+csv_text = File.read(Rails.root.join('whatyoumean.csv'))
 csv = CSV.parse(csv_text, :headers => true)
 
 csv.each do |row|
