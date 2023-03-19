@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2023_03_19_145428) do
+ActiveRecord::Schema[7.0].define(version: 2023_03_19_181040) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -20,8 +20,8 @@ ActiveRecord::Schema[7.0].define(version: 2023_03_19_145428) do
     t.string "phone"
     t.string "email"
     t.string "website"
-    t.integer "latitude"
-    t.integer "longitude"
+    t.float "latitude"
+    t.float "longitude"
     t.string "languages"
     t.boolean "mediacal"
     t.boolean "operation"

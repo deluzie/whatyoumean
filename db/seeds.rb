@@ -2,13 +2,20 @@
 # The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
 #
 # Examples:
+
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
-require 'csv'
+p "deleting records"
 
-csv_text = File.read(Rails.root.join('lib', 'seeds', 'whatyoumean.csv'))
-csv = CSV.parse(csv_text, :headers => true, :encoding => 'ISO-8859-1')
+Clinic.destroy_all
+
+p "importing data"
+
+require "csv"
+
+csv_text = File.read(Rails.root.join('whatyoumean_07.csv'))
+csv = CSV.parse(csv_text, :headers => true)
 
 csv.each do |row|
   t = Clinic.new
@@ -24,4 +31,6 @@ csv.each do |row|
   t.mediacal = row['mediacal']
   t.operation = row['operation']
   t.doctor = row['doctor']
+
+  t.save
 end
