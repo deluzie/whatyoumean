@@ -1,0 +1,63 @@
+name,street,city,zip_code,phone,email,website,latitude,longitude,languages,mediacal,operation,doctor
+Praxis,Alexanderstraße 11-15,Aachen,52062,+49 241 55910590,info@frauenaerztin-rahmaty.de,www.frauenaerztin-rahmaty.de ,50.778386,06.88444,"Englisch, Farsi",true,false,Dr. med. Scheima Rahmaty-Taheri
+Uniklinik RWTH Aachen,Pauwelsstraße 30,Aachen,52074,+49 241 8088391,cenzensberger@ukaachen.de,www.praenatalmedizin.ukaachen.de,50.7769086,6.0445727,,true,true,Univ.-Prof. Dr. med. Christian Enzensberger
+Praxisklinik,Ludgerusweg 3,Ahaus,48683,+492561961663,o.gruetter@gmx.de,www.grütter.de ,52.0711808,6.9743845,Russisch ,true,true,Dr. med. Oksana Grütter
+Praxis,Große Straße 14,Ahrensburg,22926,+49410251048,info@dr-hoene.de,,53.6742946,10.2389628,Englisch ,true,true,Dr. med. Robert Hoene
+Gemeinschaftspraxis ,Bahnhofstraße 11,Altdorf b. Nürnberg,90518,,,,49.3881947,11.3540047,,,,"Dr. Wottgen, Dr. Meinel "
+Klinikum Altenburger Land GmbH,Am Waldessaum 10,Altenburg,04600,+49 3447 522300,frauenklinik@klinikum-altenburgerland.de,www.klinikum-altenburgerland.de,50.9723974,12.4410229,"Englisch,Russisch",false,,Chefärztin Denise Riedel
+Ameos Klinikum Anklam,Hospitalstraße 19,Anklam,17389,+49 3971 8345200,sekr.gyn@anklam.ameos.de ,www.ameos.eu,53.8485562,13.6990015,"Englisch,Serbisch,Polnisch,Armenisch,Persisch,Russisch,Arabisch",true,true,
+Robert Koch Krankenhaus Apolda,Jenaer Straße 66,Apolda,99510 ,+49 3644 571501,sek.gyn@rkk-apolda.de ,www.rkk-apolda.de ,51.0128267,11.51222,,false,true,Dr. med. Joachim Bechler
+Ilm-Kreis-Kliniken Arnstadt-Ilmenau,Bärwinkelstraße 33,Arnstadt,99310,+49 3628 919329,christine.stapf@ilm-kreis-kliniken.de,www.ilm-kreis-kliniken.de ,50.8393775,10.9413536,,true,true,Dr. Christine Stapf
+Praxis,Frohsinnstraße 32,Aschaffenburg ,63739,+49 6021 26565,anmeldung@drgrasshoff.de,,49.9787178039551,9.14622116088867,"Englisch,Russisch",true,true,Dr. med. Ulrich Graßhoff
+"Praxis für Gynäkologie und Geburtshilfe und Klinik am Schlossgarten, Amb. OP-Zentrum Dr. Brusarski",Ludwigstraße 4,Aschaffenburg,63739,+49 6021 31320,rodolfobogesits@gmx.de,www.gynaschaffenburg.de,49.9800632,9.1441261,"Spanisch,Englisch",true,true,Dr. med. Rodolfo Bogesits Aufschneider
+Frauenarztpraxis,Am Kurpark 11,Aue - Bad Schlema,08301 ,+49 3772 3720966,gynpraxis.friebe@t-online.de,,50.5993766784668,12.6591243743896,,,true,Katrin Friebe
+Ubbo-Emmius-Klinik,Wallinghausener Straße 12,Aurich,26603,+49 4941 944101,sek.gyn@u-e-k.de,www.u-e-k.de,53.468879699707,7.49782037734985,"Englisch,Arabisch,Russisch,Spanisch",true,true,
+Praxis,Neue Straße 24,Bad Gandersheim,37581,+49 5382 2773,info@frauenarzt-badgandersheim.de,,51.8683895,10.0201384,,,,Dr. med. Oliver Meißner
+Hufeland Klinikum GmbH,Rudolph-Weiss-Straße 1 - 5,Bad Langensalza,99947,+49 3603 855555,,www.hufeland.de,51.105831,10.651613,,false,true,
+Praxis,Bergstraße 1,Bad Oldesloe,23843,+49 4531 81005,info@kramaschke.de,,53.805755,10.378218,,,,Kramaschke
+Praxis Dr. Thorben Ahrens,Lübecker Straße 18,Bad Schwartau,23611,+49 451 21872,info@frauenarzt-bad-schwartau.de,www.frauenarzt-bad-schwartau.de,53.917417,10.698185,"Englisch,Französisch",true,true,Dr. med. Ahrens
+Praxis Mau-Florek/Jonas/Kandel,Eutiner Ring 5,Bad Schwartau,23611,+49 451 2900166,kontakt@frauenaerztinnen-bad-schwartau.de,,53.919310,10.695479,,true,true,"Dr. med. Christine Mau-Florek, Dr. med. Michaela Kandel, Elisabeth Jonas"
+AK SEGEBERGER KLINIKEN GMBH,Krankenhausstraße 2,Bad Segeberg,23795,+49 4551 8011041,info@segebergerkliniken.de,www.segebergerkliniken.de,53.940448,10.308103,,,true,
+Praxis für Frauenheilkunde und Geburtshilfe,Tübinger Straße 44,Balingen,72336,+49 7433 9318757,praxis@dr-herter.eu,www.dr-herter.eu,48.278776,8.858038,,true,true,Dr. med. Wiebke Herter
+Praxis,Kölner Straße 26,Bergisch Gladbach,51429,+49 2204 55656,,,50.964514,7.152452,,true,true,Dr. med. Csilla Rind-Hamala
+Praxis,Novalisstraße 10,Berlin,10115,+49 30 2826892,barbara-boerner-praxis@arcor.de,,52.528953,13.388052,,,,Dipl.-Med. Barbara Börner
+Praxis,Friedrichstraße 63,Berlin,10117,+49 30 2514004,info@praxis-ziir.de,,52.511718,13.389935,,,true,Dr. med. Hürrem Ziir 
+Praxis,Leipziger Straße 40,Berlin,10117,+49 30 2011580,info@der-frauenarzt-berlin.de,,52.510329,13.393991,,true,true,Dr. med. Jürgen Gödecke 
+Praxis,Weinbergsweg 27,Berlin,10119,+49 30 47377114,,,52.530347,13.401526,Englisch,true,false,Dr. med. Jutta Grieger
+Praxis,Schwedter Straße 1,Berlin,10119,+49 30 47372990,Kontakt@frauenarzt-am senefelderplatz.de,,52.532986,13.411826,"Englisch,Türkisch",true,true,Dr. med. Bernhard Sonntag
+Gynäkologische Praxis,Kadiner Straße 23,Berlin,10243,+49 30 2911115,uteweizel@praxis-weizel.de,www.praxis-weizel.de,52.514974,13.451069,"Englisch,Französisch,Spanisch",true,,Ute Weizel
+Praxis,Andreasstraße 51,Berlin,10243,+49 30 2493557,kontakt@frauenarzt-skonietzki.de,,52.516428,13.432223,Englisch,true,false,Dr. med. Stefan Skonietzki
+Praxis Uzquianoa,Warschauer Straße 33,Berlin,10243,+49 30 2910919,praxis@frauenarzt-friedrichshain.de,www.frauenarzt-friedrichshain.de,52.507806,13.450083,"Spanisch,Portugiesisch,Englisch",true,false,Dra.(ES) Thanya Camila Uzquiano Batres
+Frauenarztpraxis Dr. med. Susann Ehrich und Dipl. med. Torsten Ehrich,Bänschstraße 69,Berlin,10247,+49 30 4262656,praxis@frauenaerzte-friedrichshain.berlin,www.frauenaerzte-friedrichshain.berlin,52.517890,13.468050,Englisch,true,true,Dipl.med. Torsten Ehrich
+Praxis,Frankfurter Allee 54,Berlin,10247,+49 30 29776201,kontakt@dr-schlothauer.de,,52.514435,13.465270,"Englisch,Russisch,Thailändisch",,,Dr. med. Valeria Schlothauer
+Familienplanungszentrum BALANCE,Mauritiuskirchstraße 3,Berlin,10365,+49 30 23623680,medizin@fpz-berlin.de,,52.512267,13.477964,"Englisch,Farsi,Arabisch,Französisch,Persisch",true,true,
+Frauenarztpraxis Prenzlauer Berg,Immanuelkirchstraße 2,Berlin,10405,+49 30 4423782,,www.frauenaerztin-prenzlberg.de,52.532974,13.422360,"Englisch,Spanisch",true,false,"Dr. med. univ. Evelyne Seiler, Dr. med. Frauke Kilias"
+Ambulantes Gynäkologisches Operationszentrum,Greifswalder Straße 139,Berlin,10409,+49 30 4428404,info@gyn-opz.de,www.gyn-opz.de,52.545950,13.444957,"Englisch,Russisch,Spanisch,Mongolisch,Ungarisch,Rumänisch",true,true,Dipl. Med. Altankhuyag Otgonbold
+Praxis Saatci/Walle,Kollwitzstraße 78,Berlin,10435,+49 30 455326015,kontakt@walle-saatci.de,,52.537315,13.419533,"Englisch,Türkisch, Schwedisch",true,true,"Dr. med. Sema Saatci, Dr. med. Ursula Walle"
+Frauenarztpraxix,Schönhauser Allee 118,Berlin,10437,,,frauenarzt-karohl-hp.samedi.de,52.549108,13.413260,Englisch,true,true,Dipl.-Med. Daniel Karohl
+Gyn-Praxis Nova,Schönhauser Allee 81,Berlin,10439,030 444 5326,info@praxisnova-berlin.de,www.praxisnova-berlin.de,52.550126,13.414259,"Englisch,Spanisch",true,true,"Dr. med. Jana Maeffert, Dr. med. Anna Richardt"
+Praxis,Oldenburger Straße 37,Berlin,10551,+49 30 288835290,praxis@hdg-mueller.de,,52.530142,13.335935,"Englisch,Französisch,Spanisch",true,true,Dr. med. Sabine Müller
+Frauenarztpraxis Böhnke Berger,Calvinstraße 23,Berlin,10557,+49 30 3913078,info@boehnke-berger.de,www.boehnke-berger.de,52.521870,13.351807,,true,true,Böhnke
+Frauenarztpraxis,Krumme Straße 70,Berlin,10627,+49 30 3130278,praxis@dr-julia-franke.de,"www.dr-julia-franke.de
+",52.511184,13.309601,Englisch,true,false,Dr. Julia Franke
+Frauenarztpraxis Ehle/Kuhlmann/Martens,Bismarckstraße 45 - 47,Berlin,10627,+49 30 3133019,info@tcm-frauenarzt.de,,52.511728,13.304844,"Russisch,Englisch",true,true,"Claudia Ehle, Kirsten Kuhlmann"
+Praxis,Kantstraße 72,Berlin,10627,+49 30 32764960,,,52.506960,13.299885,,false,true,Dr. med. Lale Farkic
+Praxis,Joachim-Friedrich-Straße 16,Berlin,10711,+49 30 121001000,praxis.buescher@frauenarzt-kudamm.de,,52.497192,13.296389,Englisch,true,false,Dr. med. Nina Büscher
+Frauenmedizin am Bundesplatz,Bundesplatz 3,Berlin,10715,+49 30 85731901,,,52.479586,13.327688,,true,false,Dr. med. Henningsen
+Praxis,Bundesallee 56,Berlin,10715,+49 30 8537051,info@frauenaerztinnen-am-bundesplatz.de,,52.481281,13.328756,"Englisch,Spanisch,Türkisch",true,true,"Dr. med. Gabriele Halder, Dr. med. Christel Sadok"
+Praxis,Hohenstaufenstraße 33,Berlin,10779,+49 30 2111014,,www.aschfalk.com,52.494462,13.340896,,true,true,Dr. med. Aschfalk
+Frauenarztpraxis,Bülowstraße 23,Berlin,10783,+49 30 2161314,hilbertvogel@freenet.de,,52.497749,13.360983,"Englisch,Italienisch,Türkisch,Polnisch",,true,Dr. med. Hilbert Vogel
+Praxis,Bülowstraße 23,Berlin,10783,,,,52.497749,13.360983,,false,true,Dr. Sharma
+Frauenärzte am Potsdamer Platz,Alte Potsdamer Straße 7,Berlin,10785,+49 30 2612043,info@frauenaerzte-am-potsdamer-platz.de,https://www.frauenaerzte-am-potsdamer-platz.de,52.508120,13.374472,Englisch ,true,true,"Dr. med. Matthias Stroth, Natalia Egorova"
+Dres. Henze/Weingarten,Tauentzienstraße 1,Berlin,10789,+49 30 8916070,dr.weingarten@aerzte-berlin.de,,52.502420,13.341851,"Englisch,Spanisch,Französisch",true,true,Dr. Ursula Weingarten
+Gemeinschaftspraxis Dr. Puhlemann/P. Säger,Yorckstraße 71,Berlin,10965,+49 30 7850006,yorckfrauen@aerzte-berlin.de,,52.492517,13.380908,Englisch,true,false,"Petra Säger, Dr. med. Jennifer Puhlemann"
+Praxis,Mehringplatz 13,Berlin,10969,+49 30 6949125,kontakt@praxis-cleemann.berlin,www.praxis-cleemann.berlin,52.499641,13.390935,"Englisch,Russisch,Arabisch,Türkisch",true,true,Dipl.-Med. Irina Cleemann
+Gynäkologisches Versorgungszentrum Kreuzberg,Adalbertstraße 16,Berlin,10997,+49 30 6169540,drpett@pett-jandi.de,,52.501820,13.419886,"Englisch,Französisch",true,true,"Dr. med. Sohela Rduch-Jandi, Dr. med. Ansgar Pett"
+"Praxis Dr. Anke Joachim, Dr. Birgit Roth",Paul-Lincke-Ufer 7d,Berlin,10999,+49 30 6114055,info@frauenaerztin-kreuzberg.de,www.frauenaerztin-kreuzberg.de,52.492141,13.434733,Englisch ,true,true,"Dr.med. Anke Joachim, Dr.med. Birgit Roth"
+Praxis,Karl-Marx-Straße 27,Berlin,12043,+49 30 54715862,,,52.484667,13.428490,"Türkisch,Kurdisch,Russisch",false,true,Dr. (Univ. Moskau) Gülüstan Saribas 
+Praxis,Karl-Marx-Straße 80,Berlin,12043,+49 30 6815041,tengis.kasch@dgn.de,www.frauenarzt-berlin.de,52.481367,13.434216,"Englisch,Polnisch,Hebräisch,Russisch,Türkisch,Georgisch",false,true,Tengis Kasch
+Praxis,Karl-Marx-Straße 132,Berlin,12043,+49 30 81059747,kontakt@fzz-berlin.de,,52.477293,13.438467,"Englisch,Russisch,Portugiesisch",true,true,Kathrin Lais
+Praxis,Sonnenallee 105 ,Berlin,12045,+49 30 687105,dr.michael@von-baehr.de,www.frauenaerzte.de/michaelvonbaehr,52.481940,13.440047,"Türkisch,Arabisch,Italienisch,Französisch,Englisch",true,true,Dr. med. Michael von Baehr
+Praxis,Herrfurthstraße 1,Berlin,12049 ,+49 30 233289489,praxis.henschel@gyn-schillerkiez.de,,52.477624,13.425652,,WAHR,,Dr. med. Kathrin Henschel
+Frauenarztpraxis,Hermannstraße 162,Berlin,12051,+49 30 6261876,mail@frauenarztneukoelln.de,,52.468903,13.430740,"Englisch,Türkisch",WAHR,,"Dr. med. Ulrike Wein, Dr. med. Nicole Vogt"
+Praxis,Hermannstraße 147,Berlin,12051,+49 30 6222097,roedel@gyn-berlin.com,,52.464535,13.433176,"Russisch,Englisch",false,true,Matthias Rödel

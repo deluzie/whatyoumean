@@ -1,0 +1,15 @@
+name,street,city,zip_code,phone,email,website,latitude,longitude,languages,mediacal,operation,doctor
+Praxis,Alexanderstraße 11-15,Aachen,52062,+49 241 55910590,info@frauenaerztin-rahmaty.de,www.frauenaerztin-rahmaty.de ,50.778386,06.88444,"Englisch, Farsi",true,false,Dr. med. Scheima Rahmaty-Taheri
+Uniklinik RWTH Aachen,Pauwelsstraße 30,Aachen,52074,+49 241 8088391,cenzensberger@ukaachen.de,www.praenatalmedizin.ukaachen.de,50.7769086,6.0445727,,true,true,Univ.-Prof. Dr. med. Christian Enzensberger
+Praxisklinik,Ludgerusweg 3,Ahaus,48683,+492561961663,o.gruetter@gmx.de,www.grütter.de ,52.0711808,6.9743845,Russisch ,true,true,Dr. med. Oksana Grütter
+Praxis,Große Straße 14,Ahrensburg,22926,+49410251048,info@dr-hoene.de,,53.6742946,10.2389628,Englisch ,true,true,Dr. med. Robert Hoene
+Gemeinschaftspraxis ,Bahnhofstraße 11,Altdorf b. Nürnberg,90518,,,,49.3881947,11.3540047,,,,"Dr. Wottgen, Dr. Meinel "
+Klinikum Altenburger Land GmbH,Am Waldessaum 10,Altenburg,04600,+49 3447 522300,frauenklinik@klinikum-altenburgerland.de,www.klinikum-altenburgerland.de,50.9723974,12.4410229,"Englisch,Russisch",false,,Chefärztin Denise Riedel
+Ameos Klinikum Anklam,Hospitalstraße 19,Anklam,17389,+49 3971 8345200,sekr.gyn@anklam.ameos.de ,www.ameos.eu,53.8485562,13.6990015,"Englisch,Serbisch,Polnisch,Armenisch,Persisch,Russisch,Arabisch",true,true,
+Robert Koch Krankenhaus Apolda,Jenaer Straße 66,Apolda,99510 ,+49 3644 571501,sek.gyn@rkk-apolda.de ,www.rkk-apolda.de ,51.0128267,11.51222,,false,true,Dr. med. Joachim Bechler
+Ilm-Kreis-Kliniken Arnstadt-Ilmenau,Bärwinkelstraße 33,Arnstadt,99310,+49 3628 919329,christine.stapf@ilm-kreis-kliniken.de,www.ilm-kreis-kliniken.de ,50.8393775,10.9413536,,true,true,Dr. Christine Stapf
+Praxis,Frohsinnstraße 32,Aschaffenburg ,63739,+49 6021 26565,anmeldung@drgrasshoff.de,,49.9787178039551,9.14622116088867,"Englisch,Russisch",true,true,Dr. med. Ulrich Graßhoff
+"Praxis für Gynäkologie und Geburtshilfe und Klinik am Schlossgarten, Amb. OP-Zentrum Dr. Brusarski",Ludwigstraße 4,Aschaffenburg,63739,+49 6021 31320,rodolfobogesits@gmx.de,www.gynaschaffenburg.de,49.9800632,9.1441261,"Spanisch,Englisch",true,true,Dr. med. Rodolfo Bogesits Aufschneider
+Frauenarztpraxis,Am Kurpark 11,Aue - Bad Schlema,08301 ,+49 3772 3720966,gynpraxis.friebe@t-online.de,,50.5993766784668,12.6591243743896,,,true,Katrin Friebe
+Ubbo-Emmius-Klinik,Wallinghausener Straße 12,Aurich,26603,+49 4941 944101,sek.gyn@u-e-k.de,www.u-e-k.de,53.468879699707,7.49782037734985,"Englisch,Arabisch,Russisch,Spanisch",true,true,
+Praxis,Neue Straße 24,Bad Gandersheim,37581,+49 5382 2773,info@frauenarzt-badgandersheim.de,,51.8683895,10.0201384,,,,Dr. med. Oliver Meißner

@@ -6,22 +6,21 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
-p "deleting records"
+p "deleting records.."
 
 Clinic.destroy_all
 
-p "importing data"
+p "importing data..."
 
 require "csv"
 
-csv_text = File.read(Rails.root.join('whatyoumean.csv'))
+csv_text = File.read(Rails.root.join('whatyoumean_2003.csv'))
 csv = CSV.parse(csv_text, :headers => true)
 
 csv.each do |row|
   t = Clinic.new
 
   t.name = row['name']
-  t.address = row['address']
   t.phone = row['phone']
   t.email = row['email']
   t.website = row['website']
@@ -31,6 +30,9 @@ csv.each do |row|
   t.mediacal = row['mediacal']
   t.operation = row['operation']
   t.doctor = row['doctor']
+  t.street = row['street']
+  t.zip_code = row['zip_code']
+  t.city = row['city']
 
   t.save
 end
